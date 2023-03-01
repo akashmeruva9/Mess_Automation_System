@@ -1,0 +1,10 @@
+﻿  MainForm.cpp
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\MainForm.h(511,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\MainForm.h(520,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Program.cpp
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\MainForm.h(511,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\MainForm.h(520,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MessAutomation.vcxproj -> C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\x64\Debug\MessAutomation.exe

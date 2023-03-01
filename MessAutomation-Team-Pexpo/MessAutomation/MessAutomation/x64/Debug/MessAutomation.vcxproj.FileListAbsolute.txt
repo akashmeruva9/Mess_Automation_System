@@ -1,0 +1,8 @@
+C:\Users\akash\source\repos\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.AssemblyReference.cache
+C:\Users\akash\source\repos\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\akash\source\repos\MessAutomation\MessAutomation\x64\Debug\MessAutomation.MainForm.resources
+C:\Users\akash\source\repos\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.GenerateResource.cache
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.AssemblyReference.cache
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\x64\Debug\MessAutomation.MainForm.resources
+C:\Users\akash\OneDrive\Desktop\MessAutomation\MessAutomation\MessAutomation\x64\Debug\MessAutomation.vcxproj.GenerateResource.cache
