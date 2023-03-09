@@ -8,13 +8,7 @@ Using a Computer-Based Desktop App to verify the credentials of students while t
 <table style="border: 1px solid black;">
             <tr>
                 <td  style="border: 1px solid black ;">
-                    Front
-                </td>
-                <td  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/224087124-c311b36a-d672-40af-af70-b0619790ff54.png"   width="400">
-                </td>
-                <td  style="border: 1px solid black ;">
-                    Scanner
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://user-images.githubusercontent.com/106223361/224087137-5e621853-8e21-4b94-be1c-7f419a1f8786.png"   width="400">
